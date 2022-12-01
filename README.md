@@ -21,8 +21,9 @@
   * [Question](#question)
 
   ## Preview
-  *Demo Video:*
-  https://app.castify.com/view/a4b5c83d-0012-4d98-b6f1-41915e6dea14
+  [*Demo Video*](https://app.castify.com/view/a4b5c83d-0012-4d98-b6f1-41915e6dea14)
+
+  [*Heroku Live URL*](https://stormy-bastion-21470.herokuapp.com/notes)
 
   *Main Page:*
   ![Main Page](./Develop/public/assets/images/Main.jpg)
